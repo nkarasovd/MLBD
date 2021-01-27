@@ -11,7 +11,7 @@ Materials for "Machine Learning on Big Data" course
 
 #### 1. [Hadoop and MapReduce](/lectures/hadoop_mapreduce)
 >   <ins><i>Keywords:</i></ins> Google FS (master, chunkservers), Hadoop, HDFS (NameNode, DataNode), MapReduce (master, workers)
-#### 2. Apache Spark
+#### 2. [Apache Spark](/lectures/spark)
 >  <ins><i>Keywords:</i></ins> Pig, Hive, Spark (RDDs, transformations, actions, lineage graph, fault-tolerance, persist, driver, workers, stages, dependencies, tasks, partition)
 #### 3. Spark SQL
 >  <ins><i>Keywords:</i></ins> Shark, DataFrames (DSL, cache, UDFs), Catalyst (tree, rule, catalyst in spark-sql)
@@ -73,9 +73,7 @@ Materials for "Machine Learning on Big Data" course
 * PR с выполненным заданием должен быть отправлен на проверку не позднее чем через 8 дней после того как было выдано задание.
 * По прошествии дедлайна, в рамках PR можно только исправлять замечания, но не отправлять на проверку новые задачи.
 
-## Домашние задания
-
-### Контесты
+## Контесты
 
 1. [Kaggle: CTR Prediction](https://www.kaggle.com/c/mlbd-20-ctr-prediction-1)
 2. TBD
@@ -85,6 +83,23 @@ Materials for "Machine Learning on Big Data" course
 1. Для решения контестов можно использовать любые методы/приемы/фрэймворки, которые обсуждались на лекциях.
 2. После окончания контеста нужно будет написать отчет об итоговом решении.
 
+## Ответы на организационные вопросы
+
+<details>
+  <summary>FAQ</summary>
+
+#### Q: Сколько домашних заданий? Будет ли экзамен? С каким весом берется то и другое? 
+
+Оценка за курс выставляется по результатам выполнения практических заданий. <br>
+При выставлении оценки все задания учитываются с одинаковым весом. <br>
+Очередное практическое задание будет появлятся после лекции.
+
+#### Q: Что обязательное, а за что можно получить доп. баллы?
+
+Контесты обязательны и нужны для более объективной оценки некоторых практических заданий. <br>
+Позиция в лидерборде + отчет об итоговом решении позволяют получить дополнительные баллы, после завершения контеста.
+
+</details>
 
 ## Docker
 
